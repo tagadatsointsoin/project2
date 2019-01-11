@@ -1,1 +1,2 @@
 C'est le fichier2.
+Ligne ajoutée sur le web.
