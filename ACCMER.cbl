@@ -2,7 +2,7 @@
        PROGRAM-ID.  ACCMER.                                             ACCMER
       *AUTHOR.         EXTRACTION OF groupbill arrg.                    ACCMER
       *DATE-COMPILED.   09/08/14.                                       ACCMER
-      ******************************************************************ACOPYP
+      *********** my branch ********************************************ACOPYP
       *     UNPUBLISHED WORK.  COPYRIGHT 2010     tagada                *ACOPYP
       *     AMERIPRISE FINANCIAL, INC.  ALL RIGHTS RESERVED.           *ACOPYP
       *     THE CAMS SYSTEM AND ALL INFORMATION RELATING THERETO,    *  ACOPYP
