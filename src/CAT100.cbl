@@ -22,7 +22,7 @@
       *     OF:                                                        *ACOPYP
       *     COPR. 1997                                                 *ACOPYP
       *     AMERIPRISE FINANCIAL, INC.                                 *ACOPYP
-      *     70100 AMERIPRISE FINANCIAL CENTER, MINNEAPOLIS, MN¦ 55474  *ACOPYP
+      *     70100 AMERIPRISE FINANCIAL CENTER, MINNEAPOLIS, MNÂ¦ 55474  *ACOPYP
       ******************************************************************ACOPYP
       ******************************************************************$2000
       ** YEAR 2000 COMPLIANT - YES                                      $2000
