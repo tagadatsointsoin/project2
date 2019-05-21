@@ -2,7 +2,7 @@
        PROGRAM-ID.  CAT200.                                             CAT200
       *AUTHOR.         UD TRANSFER/DBL TRANSFER RULES.                  CAT200
       *DATE-COMPILED.   09/08/14.                                       CAT200
-      *********************************************** GP ***************ACOPYP
+      *************** GP * GP *********************** GP ***************ACOPYP
       *     UNPUBLISHED WORK.  COPYRIGHT 1999                          *ACOPYP
       *     AMERIPRISE FINANCIAL, INC.  ALL RIGHTS RESERVED.           *ACOPYP
       *     THE CATS  SYSTEM AND ALL INFORMATION RELATING THERETO,    * ACOPYP
