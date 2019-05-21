@@ -2,7 +2,7 @@
        PROGRAM-ID.  CAT200.                                             CAT200
       *AUTHOR.         UD TRANSFER/DBL TRANSFER RULES.                  CAT200
       *DATE-COMPILED.   09/08/14.                                       CAT200
-      ******************************************************************ACOPYP
+      *************** GP ***********************************************ACOPYP
       *     UNPUBLISHED WORK.  COPYRIGHT 1999                          *ACOPYP
       *     AMERIPRISE FINANCIAL, INC.  ALL RIGHTS RESERVED.           *ACOPYP
       *     THE CATS  SYSTEM AND ALL INFORMATION RELATING THERETO,    * ACOPYP
@@ -22,7 +22,7 @@
       *     OF:                                                        *ACOPYP
       *     COPR. 1999                                                 *ACOPYP
       *     AMERIPRISE FINANCIAL, INC.                                 *ACOPYP
-      *     70100 AMERIPRISE FINANCIAL CENTER, MINNEAPOLIS, MN¦ 55474  *ACOPYP
+      *     70100 AMERIPRISE FINANCIAL CENTER, MINNEAPOLIS, MNÂ¦ 55474  *ACOPYP
       ******************************************************************ACOPYP
       ******************************************************************$2000
       ** YEAR 2000 COMPLIANT - YES                                      $2000
