@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.                                         CAT200
        PROGRAM-ID.  CAT200.                                             CAT200
-      *AUTHOR.         UD TRANSFER/DBL TRANSFER RULES.    gp            CAT200
+      *AUTHOR.         UD TRANSFER/DBL TRANSFER RULES.    gp GP         CAT200
       *DATE-COMPILED.   09/08/14.                                       CAT200
       *************** GP * GP *********************** GP ***************ACOPYP
       *DATE-COMPILED.   09/08/14. GP                                    CAT200
