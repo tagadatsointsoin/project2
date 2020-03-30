@@ -15,4 +15,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Run from a file
-      run: Another action from a file
+      run: echo Another action from a file
