@@ -1,1 +1,1 @@
-echo "Another action from a file"
+run: echo Another action from a file
