@@ -34,4 +34,4 @@ jobs:
         
     # Runs a set of commands using file script
     - name: Run from a file
-      uses: ./.github/actions/display1
+      uses: /.github/actions/display1
