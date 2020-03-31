@@ -32,6 +32,10 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         
+    # Runs to set up error message
+    - name: Set up error message
+      run: ::error::Message Erreur
+
     # Runs a set of commands using file script
-    - name: Run from a file
-      uses: ./.github/actions/display1
+    #- name: Run from a file
+    #  uses: ./.github/actions/display1
