@@ -32,9 +32,9 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         
-    # Runs to set up error message
-    - name: Set up error message
-      run: echo ::error::Message_Erreur
+    # Runs to set up error/warning message
+    - name: Set up error/warning message
+      run: echo ::warning::Message_Warning
 
     # Runs a set of commands using file script
     #- name: Run from a file
