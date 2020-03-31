@@ -34,7 +34,7 @@ jobs:
         
     # Runs to set up error/warning message
     - name: Set up error/warning message
-      run: echo ::warning::Message_Warning
+      run: echo ::error::Message_Erreur
 
     # Runs a set of commands using file script
     #- name: Run from a file
